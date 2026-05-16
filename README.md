@@ -193,20 +193,6 @@ Once deployed, open your browser and visit: `http://localhost:8080/LeaveManageme
 
 ✅ You are now ready to use the Leave Management System locally!
 
---- 
-
-## 🙌 Contributors
-
-Thanks to the following people who helped make this project possible:
-
-- [@Prathameshsingh Rajput](https://github.com/prathameshsingh-rajput)
-- [@Nilesh Chavhan](https://github.com/Nileshchavhan75)
-- [@Swaraj Bendke ](https://github.com/swaraj165)
-
---- 
-
-🙋 Need Help?
-Raise an issue: 🔗 [Github Issue](https://github.com/connect-psr/LeaveManagementSystem/issues) 
 
 
 
